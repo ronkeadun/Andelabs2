@@ -3,8 +3,8 @@ function findMinMax (n){
 	for (var x in n) {
 		if ( n[x] < n[x + 1]){
 
-			Arr.push(n[x]);
-			Arr.push(n[x + 1]);
+			Arr.push(n[x],  n[x + 1]);
+
 		}
 		
 	}
