@@ -1,0 +1,20 @@
+{
+  "name": "Andelabs2",
+  "version": "1.0.0",
+  "description": "Min-Max",
+  "main": "Min_MaxSpec.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronkeadun/Andelabs2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronkeadun/Andelabs2/issues"
+  },
+  "homepage": "https://github.com/ronkeadun/Andelabs2#readme"
+}
